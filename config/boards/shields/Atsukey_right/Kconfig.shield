@@ -1,3 +1,2 @@
 config SHIELD_ATSUKEY_RIGHT
     bool "Atsukey Right"
-
